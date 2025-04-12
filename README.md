@@ -1,4 +1,4 @@
-# Constructor ⚡🤖
+# Constructor🤖
 This repository contains a collection of Java programs focused on demonstrating various types of constructors and their real-world applications within Object-Oriented Programming (OOP). It includes practical examples showcasing constructor overloading, chaining, and initialization patterns using relatable domain models such as employees, products, bank accounts, and cars.
 
 > 💡 Inspired and mentored by **The Kiran Academy (TKA)**
